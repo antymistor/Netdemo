@@ -1,0 +1,21 @@
+﻿  Reading Qt configuration (D:\MYAPP\QT\5.8\msvc2015_64\bin\qmake.exe)
+  rcc Netdemo.qrc
+  moc Netdemo.h
+  moc Camerathread.h
+  moc NetThread.h
+   RCC: Warning: No resources in 'D:\c++test\Qttest2\Netdemo\Netdemo\Netdemo.qrc'.
+  Camerathread.cpp
+  HKIPcamera.cpp
+  main.cpp
+  Mstring.cpp
+  Netdemo.cpp
+  NetThread.cpp
+  ui_Netdemo.cpp
+HKIPcamera.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\c++test\qttest2\netdemo\netdemo\netthread.cpp(67): warning C4715: “netthread2”: 不是所有的控件路径都返回值
+d:\c++test\qttest2\netdemo\netdemo\camerathread.cpp(160): warning C4715: “camerathread2”: 不是所有的控件路径都返回值
+  qrc_Netdemo.cpp
+  moc_Netdemo.cpp
+  moc_Camerathread.cpp
+  moc_NetThread.cpp
+  Netdemo.vcxproj -> D:\c++test\Qttest2\Netdemo\x64\Release\Netdemo.exe

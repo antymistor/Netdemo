@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Netdemo", "Netdemo\Netdemo.vcxproj", "{FF727BE0-95D9-43A9-9690-5E199A1DA7B3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{71A59B38-0DB3-48C0-9E9E-50B2155E2D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF727BE0-95D9-43A9-9690-5E199A1DA7B3}.Debug|x64.ActiveCfg = Debug|x64
+		{FF727BE0-95D9-43A9-9690-5E199A1DA7B3}.Debug|x64.Build.0 = Debug|x64
+		{FF727BE0-95D9-43A9-9690-5E199A1DA7B3}.Release|x64.ActiveCfg = Release|x64
+		{FF727BE0-95D9-43A9-9690-5E199A1DA7B3}.Release|x64.Build.0 = Release|x64
+		{71A59B38-0DB3-48C0-9E9E-50B2155E2D85}.Debug|x64.ActiveCfg = Debug
+		{71A59B38-0DB3-48C0-9E9E-50B2155E2D85}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
